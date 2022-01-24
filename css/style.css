@@ -1,0 +1,40 @@
+body{
+    font: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    
+}
+
+.navbar {
+    background-color: #0594C2;
+    color: cornsilk;
+}
+
+.quem-somos {
+    background-color: #EC7231 ;  
+    color: cornsilk;
+}
+
+.parceiros {
+    background-color: #F88A50;
+    color: cornsilk;
+}
+
+.servicos {
+    background-color: #FAAC84;
+    color: cornsilk;    
+}
+
+.bg-footer {
+    background-color: #0594C2;
+
+}
+
+.margin {
+     padding-top: 50px;
+     padding-bottom: 50px;
+}
+
+.margin2 {
+    padding-top: 25px;
+    padding-bottom: 35px;
+}
